@@ -1,6 +1,8 @@
 # up206a-mel
 
-## Mel (Melissa) Liu. Pronouns they/them/theirs. MURP 2021-2023.
+## Mel (Melissa) Liu.
+MURP 2021-2023.
+**Pronouns:** _they/them/theirs._ 
 
 ![This is an image](https://eatwell.healthy.ucla.edu/wp-content/uploads/sites/2/2021/09/Image-9-27-21-at-6.32-PM.jpg)
 
