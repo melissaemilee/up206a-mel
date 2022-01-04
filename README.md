@@ -15,7 +15,7 @@ The goal for this course is to expose you to the foundations of spatial data sci
 In addition to the programming lab sessions, you will be given weekly or bi-weekly "thinking cap" assignments, where you will be asked to think critically about contemporary urban issues. Be prepared to address various topics from the perspective of your own lived experiences, how it informs the topic, and what kind of research can advance knowledge in a positive way.
 
 
-## Project Ideas and Objectives
+## Course Objectives
 At the conclusion of this course, students will be able to critically describe, analyze, and visualize spatial data for planning practices and research.
 
 Demonstrate the value of data for planning purposes through discovery, exploration, and analysis
@@ -24,4 +24,5 @@ Apply data science programming techniques to produce relevant visualizations tha
 Learn to visualize data spatially to communicate the importance of place-based informatics
 Learn to produce publication-ready scholarly materials in the form of tables, charts, and maps
 
+## Personal Project Ideas & Goals
 Through my GSR position for the EatWell Pod at UCLA, I hope to start a GIS mapping project of edible landscaping starting this Winter quarter, as well as mapping food resources related to food and land justice. After taking the Sectoral Analysis course my first quarter as a MURP, I also realize that having GIS skills will allow me to take data like restauarants and grocery stores, and spatially map them for organizations/clients like Koreatown Immigrant Workers Alliance and LA food policy council. I hope to explore fresh food access and urban farming issues spatially using GIS and coding, which will potentially be a capstone project that I will propose in my second year as a MURP.
